@@ -1,7 +1,7 @@
-О себе:
-<img width="1000" height="420" alt="image" src="https://github.com/user-attachments/assets/5a58a062-208f-4fe7-9f19-d2b7da342cd1" />
-<img width="1000" height ="420" alt="image" src="https://avatars.mds.yandex.net/i?id=ede53ee2319b4232c103dd7de56c3402_l-5221635-images-thumbs&n=13" />
-
-
-
-
+<h1>О себе:<h1>
+<img width="150" height="100" alt="svg" src="https://svg4.ru/data_svg/Vscode%20Icons%20Collection/go.svg" />
+<img width="150" height ="100" alt="svg" src="https://svg4.ru/data_svg/Colored%20Interface%20And%20Logo%20Icons%20Collection/python.svg" />
+<img width="150" height="100" alt="svg" src="https://svg4.ru/data_svg/Colored%20Svg%20Logos%20Collection/pytorch.svg" />
+<img wigth="150" height="100" alt="svg" src="https://svg4.ru/data_svg/Vscode%20Icons%20Collection/html.svg/" />
+<img wigth="150" height="100" alt="svg" src="https://svg4.ru/data_svg/Colored%20Svg%20Logos%20Collection/react.svg" />
+<img wigth="150" height="100" alt="svg" src="https://svg4.ru/data_svg/Colored%20Svg%20Logos%20Collection/javascript.svg" />
